@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Parallax/P8X32A-Q44:P8X32A-Q44",
+  "name": "P8X32A-Q44",
+  "library": "MCU_Parallax",
+  "file": "MCU_Parallax.kicad_symdir/P8X32A-Q44.kicad_sym",
+  "description": "Parallax Propeller 8 core, 32 bit, 80 MHz microcontroller, 3.3VDC, 44-pin LQFP",
+  "datasheet": "https://www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf",
+  "keywords": "microcontroller multicore Parallax Propeller LQFP",
+  "footprint": "Package_QFP:LQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-parallax@master/parts/P8X32A-Q44/",
+  "part_path": "parts/P8X32A-Q44",
+  "symbol_file": "parts/P8X32A-Q44/P8X32A-Q44.kicad_sym",
+  "source_library": "MCU_Parallax.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:48.775Z"
+}

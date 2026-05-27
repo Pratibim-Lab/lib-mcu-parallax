@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Parallax/P8X32A-D40:P8X32A-D40",
+  "name": "P8X32A-D40",
+  "library": "MCU_Parallax",
+  "file": "MCU_Parallax.kicad_symdir/P8X32A-D40.kicad_sym",
+  "description": "Parallax Propeller 8 core, 32 bit, 80 MHz microcontroller, 3.3VDC, 40-pin DIP",
+  "datasheet": "https://www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf",
+  "keywords": "microcontroller multicore Parallax Propeller DIP",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-parallax@master/parts/P8X32A-D40/",
+  "part_path": "parts/P8X32A-D40",
+  "symbol_file": "parts/P8X32A-D40/P8X32A-D40.kicad_sym",
+  "source_library": "MCU_Parallax.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:48.771Z"
+}
